@@ -1,7 +1,8 @@
 # pocket_smart-
 Your smart budget & recommendations assistant project description managing budgets across different life needs
 
-Team members 
+Team name:BDU463_BIRDS_WINGS
+
 This project was developed for naan mudhalvan/ smartlnternz program by
 
 E.CHELLA NIVETHA
