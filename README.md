@@ -1,7 +1,7 @@
 # pocket_smart-
 Your smart budget & recommendations assistant project description managing budgets across different life needs
 
-Team name:BDU463_BIRDS_WINGS
+Team ID:6ab21512186ba30941b611f1
 
 This project was developed for naan mudhalvan/ smartlnternz program by
 
